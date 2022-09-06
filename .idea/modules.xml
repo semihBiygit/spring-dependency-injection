@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Di001/Di001.iml" filepath="$PROJECT_DIR$/Di001/Di001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Di002/Di002.iml" filepath="$PROJECT_DIR$/Di002/Di002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Di003/Di003.iml" filepath="$PROJECT_DIR$/Di003/Di003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Di004/Di004.iml" filepath="$PROJECT_DIR$/Di004/Di004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Di005/Di005.iml" filepath="$PROJECT_DIR$/Di005/Di005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Di006/Di006.iml" filepath="$PROJECT_DIR$/Di006/Di006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Di007/Di007.iml" filepath="$PROJECT_DIR$/Di007/Di007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Di008withSpring/Di008withSpring.iml" filepath="$PROJECT_DIR$/Di008withSpring/Di008withSpring.iml" />
+    </modules>
+  </component>
+</project>
